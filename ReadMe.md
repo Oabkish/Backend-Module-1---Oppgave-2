@@ -1,1 +1,3 @@
-First Step is to ask for the name as input. Once input is done, we check if it was a valid name. If not valid, we print that it is not a valid name. If valid, we continue to see what is the local time. Basid on the local time, we print a greeting and the name. 
+First Step is to ask for the name as input. Once input is done, we check if it was a valid name. If not valid, we ask for a name to be inout again. If valid, we continue to see what is the local time. Basid on the local time, we print a greeting and the name. 
+
+Additionally, I used good day as i was unsure where evening and afternoon started and ended. I  could only try with time time before 11 and thus only got good afternoon. 
