@@ -1,0 +1,1 @@
+First Step is to ask for the name as input. Once input is done, we check if it was a valid name. If not valid, we print that it is not a valid name. If valid, we continue to see what is the local time. Basid on the local time, we print a greeting and the name. 

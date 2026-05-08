@@ -1,0 +1,14 @@
+C:\Users\mosta\OneDrive\Documents\KodeHodet\W4\Oppgave 2\bin\Debug\net10.0\Oppgave 2.exe
+C:\Users\mosta\OneDrive\Documents\KodeHodet\W4\Oppgave 2\bin\Debug\net10.0\Oppgave 2.deps.json
+C:\Users\mosta\OneDrive\Documents\KodeHodet\W4\Oppgave 2\bin\Debug\net10.0\Oppgave 2.runtimeconfig.json
+C:\Users\mosta\OneDrive\Documents\KodeHodet\W4\Oppgave 2\bin\Debug\net10.0\Oppgave 2.dll
+C:\Users\mosta\OneDrive\Documents\KodeHodet\W4\Oppgave 2\bin\Debug\net10.0\Oppgave 2.pdb
+C:\Users\mosta\OneDrive\Documents\KodeHodet\W4\Oppgave 2\obj\Debug\net10.0\Oppgave 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosta\OneDrive\Documents\KodeHodet\W4\Oppgave 2\obj\Debug\net10.0\Oppgave 2.AssemblyInfoInputs.cache
+C:\Users\mosta\OneDrive\Documents\KodeHodet\W4\Oppgave 2\obj\Debug\net10.0\Oppgave 2.AssemblyInfo.cs
+C:\Users\mosta\OneDrive\Documents\KodeHodet\W4\Oppgave 2\obj\Debug\net10.0\Oppgave 2.csproj.CoreCompileInputs.cache
+C:\Users\mosta\OneDrive\Documents\KodeHodet\W4\Oppgave 2\obj\Debug\net10.0\Oppgave 2.dll
+C:\Users\mosta\OneDrive\Documents\KodeHodet\W4\Oppgave 2\obj\Debug\net10.0\refint\Oppgave 2.dll
+C:\Users\mosta\OneDrive\Documents\KodeHodet\W4\Oppgave 2\obj\Debug\net10.0\Oppgave 2.pdb
+C:\Users\mosta\OneDrive\Documents\KodeHodet\W4\Oppgave 2\obj\Debug\net10.0\Oppgave 2.genruntimeconfig.cache
+C:\Users\mosta\OneDrive\Documents\KodeHodet\W4\Oppgave 2\obj\Debug\net10.0\ref\Oppgave 2.dll
